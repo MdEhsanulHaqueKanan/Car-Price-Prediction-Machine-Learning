@@ -1,4 +1,4 @@
-This is a Machine Learning project to predict the car price in India.
+This is a Machine Learning project to predict the car selling price in India.
 
 Here is the final result:
 
